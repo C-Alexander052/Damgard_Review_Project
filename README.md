@@ -1,1 +1,3 @@
 While in an advanced cryptography class, I became interested in the use of Cellular Automata for the use of encryption. This interest was inspired by a classmate's creation of an encryption scheme which included a Cellular Automata. My investigattion of that specific scheme can be found in another of my github repos, my cryptanalysis of the Talos Cipher. As a follow-up to that work, I investigated past proposals of using CA for encryption, or in this case hashing. That investigation led to me writing a lit review of Damgård's proposal and the subsequent cryptanalyis of that proposal. 
+
+I would later give a presentation on this work to our class, the slides for that presentation are also included here.
